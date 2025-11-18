@@ -1,5 +1,5 @@
-# PIAC Curso 2025/26
-Apuntes de Programación e implementación de algoritmos cuánticos, Máster Universitario en Ciencia e Tecnoloxías de Información Cuántica, USC
+# PIAC Parte 2. Algoritmos para optimización cuántica
+Apuntes de Programación e implementación de algoritmos cuánticos, Máster Universitario en Ciencia e Tecnoloxías de Información Cuántica, USC. Curso 2025/26.
 
 ## Temario
 
