@@ -1,6 +1,10 @@
 # PIAC Parte 2. Algoritmos para optimización cuántica
 Apuntes de Programación e implementación de algoritmos cuánticos, Máster Universitario en Ciencia e Tecnoloxías de Información Cuántica, USC. Curso 2025/26.
 
+Tomás Fernández Pena
+tf.pena@usc.es
+CiTIUS Despacho 113
+
 ## Temario
 
 1. <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/01%20-%20Problemas%20QUBO%20y%20modelo%20Ising.ipynb" target="_blank">Problemas QUBO y modelo Ising</a>
