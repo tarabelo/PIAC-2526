@@ -28,5 +28,9 @@ CiTIUS Despacho 113
     - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/04%20-%20Algoritmo%20cu%C3%A1ntico%20de%20optimizaci%C3%B3n%20aproximada%20(QAOA).ipynb#qaoa" target="_blank">Quantum Approximate Optimization Algorithm (QAOA)</a>
     - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/04%20-%20Algoritmo%20cu%C3%A1ntico%20de%20optimizaci%C3%B3n%20aproximada%20(QAOA).ipynb#cuadraticos" target="_blank">Programas cuadráticos con restricciones cuadráticas</a>
     - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/04%20-%20Algoritmo%20cu%C3%A1ntico%20de%20optimizaci%C3%B3n%20aproximada%20(QAOA)#variantes.ipynb" target="_blank">Variantes de QAOA</a>
-5. Algoritmo cuántico variacional para el cálculo de autovalores (VQE)
-6. Busqueda adaptativa de Grover (GAS)
+5. <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb" target="_blank">Algoritmo cuántico variacional para el cálculo de autovalores (VQE)</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb#pv" target="_blank">Principio Variacional</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb#vqe" target="_blank">Algoritmo VQE</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb#ejemplo" target="_blank">Ejemplo: Problema molecular en Qiskit</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb#optimiza" target="_blank">Optimización con VQE</a>
+6. Búsqueda adaptativa de Grover (GAS)
