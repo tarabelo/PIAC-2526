@@ -33,4 +33,10 @@ CiTIUS Despacho 113
     - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb#vqe" target="_blank">Algoritmo VQE</a>
     - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb#ejemplo" target="_blank">Ejemplo: Problema molecular en Qiskit</a>
     - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/05%20-%20Algoritmo%20cu%C3%A1ntico%20variacional%20para%20el%20c%C3%A1lculo%20de%20autovalores%20(VQE).ipynb#optimiza" target="_blank">Optimización con VQE</a>
-6. Búsqueda adaptativa de Grover (GAS)
+6. <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/06_B%C3%BAsqueda_adaptativa_de_Grover_(GAS).ipynb" target="_blank">Búsqueda adaptativa de Grover (GAS)</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/06_B%C3%BAsqueda_adaptativa_de_Grover_(GAS)#gas.ipynb" target="_blank">Algoritmo GAS</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/06_B%C3%BAsqueda_adaptativa_de_Grover_(GAS)#oraculo.ipynb" target="_blank">Implementación del oráculo</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/06_B%C3%BAsqueda_adaptativa_de_Grover_(GAS)#suma.ipynb" target="_blank">Suma en el dominio de Fourier (_phase encoding_)</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/06_B%C3%BAsqueda_adaptativa_de_Grover_(GAS)#oraculocont.ipynb" target="_blank">Implementación del oráculo (continuación)</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/06_B%C3%BAsqueda_adaptativa_de_Grover_(GAS)#grover.ipynb" target="_blank">Uso con el algoritmo de Grover</a>
+    - <a href="https://colab.research.google.com/github/tarabelo/PIAC-2526/blob/main/06_B%C3%BAsqueda_adaptativa_de_Grover_(GAS)#qiskit.ipynb" target="_blank">Qiskit GroverOptimizer</a>
